@@ -6,5 +6,5 @@ Analysis of Airbnb Listings in Perth,Australia from insideairbnb. The primary ob
 * Impact of additional fees on review scores
 * What are the most common ammentities offerred and words used in listing titles?
 
-Python numpy,pandas, maplotlib, seaborn and scikit-learn libraries were used. Logistic Regression classifer was used to fit the data. 
+Python numpy,pandas, maplotlib, seaborn and scikit-learn libraries were used. Logistic Regression classifier was used to fit the data. 
 
