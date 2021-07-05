@@ -1,6 +1,6 @@
 ## WA-Airbnb-Analysis
 ### Project Overview
-Analysis of 12,000+ Airbnb Listings in Perth,Australia from insideairbnb. The primary objective of the analysis was to examine the charateristics of listings with review scores >80 to identify how an existing or prospective Airbnb host can have a successful listing. 
+Analysis of 12,000+ Airbnb Listings in Western Australia from insideairbnb. The primary objective of the analysis was to examine the charateristics of listings with review scores >80 to identify how an existing or prospective Airbnb host can have a successful listing. 
 ### About the Data
 Data came from a listings csv file from insideairbnb. Total of 12434 rows and 106 columns.
 ### Steps Taken
